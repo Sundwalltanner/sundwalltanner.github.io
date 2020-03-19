@@ -37,11 +37,11 @@ We also produced enough documentation such that our sponsor would be able to wal
 
 **Date:** January 2020 - February 2020
 
-**Language(s):** Rust, JSON
+**Language(s):** Rust
 
 **Repository:** [github.com/sundwalltanner/rust-nonogram](https://github.com/Sundwalltanner/Rust-Nonogram)
 
-**Technologies:** Piston modular game engine, Git, GitHub
+**Technologies:** Piston modular game engine, Git, GitHub, JSON
 
 **Description:** Nonograms are similar to Sudoku. They're just another number-based puzzle game. The goal is to use the hint numbers alongside the rows and columns of the game board in order to determine which cells need to be filled in. If the correct cells are filled in, you win.
 
