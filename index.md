@@ -4,9 +4,8 @@ Right now everything here is fairly temporary. Ideally this page wouldn't be usi
 
 ## Who Am I?
 
-| |           |
-|---------|---------------------------|
-| **Name**      | Tanner Sundwall                                 |
+| Name          | Tanner Sundwall                                 |
+|---------------|-------------------------------------------------|
 | **College**   | Portland State University                       |
 | **Degree**    | B.S.                                            |
 | **Major**     | Computer Science                                |
