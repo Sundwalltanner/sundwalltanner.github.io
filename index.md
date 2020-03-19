@@ -10,6 +10,9 @@ Right now everything here is fairly temporary. Ideally this page wouldn't be usi
 | **Degree**    | B.S.                                            |
 | **Major**     | Computer Science                                |
 | **Languages** | C, C++, C#, Rust, Java, JavaScript, Python, SQL |
+| **Email**     | sundwalltanner@gmail.com                        |
+| **GitHub**    | [github.com/sundwalltanner](https://github.com/sundwalltanner) |
+| **LinkedIn**  | [linkedin.com/in/tanner-sundwall](https://www.linkedin.com/in/tanner-sundwall/) |
 
 ## Projects
 
