@@ -16,13 +16,29 @@ Right now everything here is fairly temporary. Ideally this page wouldn't be usi
 
 ## Projects
 
+### Nonogram Puzzle Game Remade in React.js
+
+**Date:** March 2020 - Ongoing
+
+**Language(s):** JavaScript
+
+**Repository:** [github.com/Sundwalltanner/React-Nonogram](https://github.com/Sundwalltanner/React-Nonogram)
+
+**Technologies:** React.js
+
+**Description:** While looking for a post-college job, I've been working on remaking my Rust Nonogram game in a format more easily accessible. I'm trying to remake the entirety of the original game I made and then some using JavaScript, the React library, and GitHub Pages as a host.
+
+The game is currently playable here: [sundwalltanner.github.io/React-Nonogram/](https://sundwalltanner.github.io/React-Nonogram/)
+
+**It's still a work in progress**
+
 ### Portland State University Capstone Burning Man Project
 
 **Date:** September 2019 - March 2020
 
 **Language(s):** Python
 
-**Repository:** Unfortunately, the repository for this project is currently private.
+**Repository:** [gitlab.com/madelyea/team-visualizer](https://gitlab.com/madelyea/team-visualizer)
 
 **Technologies:** Raspberry Pi 4, Raspbian OS, VirtualBox, Debian Buster OS, Network Sockets, VLC, D-Bus, Git, GitLab, Draw.io
 
